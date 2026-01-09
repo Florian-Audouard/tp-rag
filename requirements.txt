@@ -1,11 +1,9 @@
 langchain
 langchain-text-splitters
-unstructured
 bs4
 requests==2.32.4
 langchain-chroma
 langchain-huggingface
 langchain-community
 
-langchain-unstructured 
 python-magic
