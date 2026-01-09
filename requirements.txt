@@ -1,6 +1,9 @@
-langchain
-langchain-text-splitters
+langchain==0.3.27
+langchain-core==0.3.63
+langchain-community==0.3.26
+langchain-text-splitters==0.3.8
+langchain-huggingface==0.1.2
+langchain-chroma==0.2.6
+
+chromadb>=0.5.0
 requests==2.32.4
-langchain-chroma
-langchain-huggingface
-langchain-community
