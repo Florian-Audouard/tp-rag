@@ -8,7 +8,4 @@ langchain-huggingface
 langchain-community
 
 langchain-unstructured 
-unstructured 
-unstructured[pdf]
-unstructured[latex]
 python-magic
