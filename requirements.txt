@@ -1,9 +1,9 @@
-langchain
-langchain-text-splitters
-bs4
+langchain==1.2.0
+langchain-text-splitters==1.1.0
+bs4==0.0.2
 requests==2.32.4
-langchain-chroma
-langchain-huggingface
-langchain-community
+langchain-chroma==1.1.0
+langchain-huggingface==1.2.0
+langchain-community==0.4.1
 
-python-magic
+python-magic==0.4.27
