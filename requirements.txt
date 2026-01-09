@@ -1,6 +1,7 @@
 langchain
 langchain-text-splitters
 langchain-community
+unstructured
 bs4
 requests==2.32.4
 langchain-chroma
