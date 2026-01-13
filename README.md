@@ -1,3 +1,4 @@
+
 # TP - Retrieval Augmented Generation
 
 Dans ce TP, vous allez mettre mettre la technique du _Retrieval Augmented Generation (RAG)_ pour répondre à des questions en utilisant une base de connaissance externe.
