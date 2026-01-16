@@ -1,6 +1,7 @@
 langchain==1.2.3
 langchain-core==1.2.3
 
+unstructured
 langchain-community==0.4.1
 langchain-text-splitters==1.1.0
 langchain-huggingface==1.2.0
